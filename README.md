@@ -1,6 +1,9 @@
 ## 魚塭監測及時預警系統
 
+![image](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system/assets/128284090/450201bb-d0f8-4e28-9cb5-5768cfaf14a8)
+
 這是我們為三星明日之星比賽所製作的產品。
+我在比賽中負責程式的部分。
 
 歡迎來到魚塭監測及時預警系統專案！這裡不僅探索環境保護與經濟繁榮的交匯點，更融合了尖端技術，旨在重新定義魚塭監測和災害應變。
 
@@ -21,3 +24,6 @@
 - **數據整合**：整合來自不同來源的數據，建立魚塭條件和環境因素的全面概覽。
 - **機器學習**：利用機器學習算法預測和防止潛在風險，優化養魚操作和可持續發展努力。
 - **用戶友好界面**：設計直觀的界面，便於與監測系統互動，確保魚農的可訪問性和可用性。
+- 
+![image](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system/assets/128284090/fe61a307-4e7b-495a-aec9-e3c24ca79753)
+
